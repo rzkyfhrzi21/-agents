@@ -7,13 +7,14 @@
 
 <br>
 
-<a href="https://instagram.com/rzkydev666" target="_blank">
-  <img src="ig.png" alt="Instagram @rzkydev666" width="40" height="40" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/rzkydev666" target="_blank">
-  <img src="github.png" alt="GitHub @rzkydev666" width="40" height="40" />
-</a>
+<p align="center">
+  <a href="https://instagram.com/rzkydev666" target="_blank">
+    <img src="ig.png" alt="Instagram @rzkydev666" width="49%" />
+  </a>
+  <a href="https://github.com/rzkydev666" target="_blank">
+    <img src="github.png" alt="GitHub @rzkydev666" width="49%" />
+  </a>
+</p>
 
 <br>
 <br>
