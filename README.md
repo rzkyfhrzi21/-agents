@@ -8,12 +8,12 @@
 <br>
 
 <p align="center">
-  <a href="https://instagram.com/rzkydev666" target="_blank">
-    <img src="assets/ig.png" alt="Instagram @rzkydev666" width="100%" />
-  </a>
-  <br><br>
   <a href="https://github.com/rzkydev666" target="_blank">
     <img src="assets/github.png" alt="GitHub @rzkydev666" width="100%" />
+  </a>
+  <br><br>
+  <a href="https://instagram.com/rzkydev666" target="_blank">
+    <img src="assets/ig.png" alt="Instagram @rzkydev666" width="100%" />
   </a>
 </p>
 
