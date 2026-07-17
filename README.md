@@ -1,18 +1,32 @@
-**Language:** Indonesia
-
-![AI Agent Harness Workspace — by rzkydev666](https://img.shields.io/badge/AI%20Agent%20Harness-Workspace%20Template-blueviolet?style=for-the-badge&logo=github)
-[![GitHub](https://img.shields.io/badge/GitHub-rzkydev666-181717?style=for-the-badge&logo=github)](https://github.com/rzkydev666)
-[![Instagram](https://img.shields.io/badge/Instagram-@rzkydev666-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/rzkydev666)
-[![License](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)](LICENSE)
-
----
+<div align="center">
 
 # 🤖 AI Agent Harness Workspace
 
-> **Template workspace AI yang siap pakai untuk setiap project baru.**
-> Berisi kumpulan skill modular, aturan kerja AI, konfigurasi terminal, dan ratusan panduan teknis yang bisa langsung di-copy ke project mana pun.
+**"Operating System" pribadi untuk AI Agent dalam pengembangan produk nyata.**<br>
+*Template workspace yang berisi kumpulan skill modular, aturan kerja AI, konfigurasi terminal, dan ratusan panduan teknis siap pakai.*
 
-Dibuat berdasarkan pengalaman langsung menggunakan berbagai AI agent (Antigravity, Claude Code, Cursor, Codex) dalam pengembangan produk nyata. Workspace ini adalah *"operating system"* pribadi untuk AI yang bekerja bersama saya.
+<br>
+
+<a href="https://instagram.com/rzkydev666" target="_blank">
+  <img src="ig.png" alt="Instagram @rzkydev666" width="40" height="40" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/rzkydev666" target="_blank">
+  <img src="github.png" alt="GitHub @rzkydev666" width="40" height="40" />
+</a>
+
+<br>
+<br>
+
+[![Language](https://img.shields.io/badge/Language-Indonesia-red?style=for-the-badge)](#)
+[![AI Agent Harness](https://img.shields.io/badge/AI%20Agent%20Harness-Workspace%20Template-blueviolet?style=for-the-badge&logo=probot)](#)
+[![License](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)](LICENSE)
+
+</div>
+
+---
+
+Dibuat berdasarkan pengalaman langsung mengeksploitasi berbagai AI agent (Antigravity, Claude Code, Cursor, Codex) di lingkungan produksi. Workspace ini bukan sekadar direktori biasa, melainkan otak operasional yang mengatur **bagaimana AI harus berpikir, bekerja, dan mengambil keputusan** bersama saya.
 
 ---
 
