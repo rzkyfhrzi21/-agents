@@ -31,6 +31,9 @@ AI **wajib** membaca semua file skill di folder `@agents/AI-SKILLS/` dan subfold
 - **📁 SUPERPOWERS**: 
   - `SUPERPOWERS_SKILLS.md`: Kumpulan *skill* modular untuk alur kerja seperti *brainstorming*, penulisan *plan*, dan *debugging*.
 
+- **📁 AGENT_SKILLS**: (Dari repo `agent-skills`)
+  - Kumpulan *skill* engineering (TDD, CI/CD, Code Review, SDD, Debugging, Refactoring, dsb). Diambil dari koleksi Addy Osmani untuk menstandarkan siklus hidup rekayasa perangkat lunak (*software engineering lifecycle*) AI.
+
 - **📁 TASTE_SKILLS**: (Dari repo `taste-skill`)
   - Kumpulan *skill* (seperti `brandkit`, `minimalist-skill`, dll) untuk merancang antarmuka (UI/UX) yang premium, dinamis, dan terhindar dari gaya bawaan yang kaku (*anti-slop*).
 

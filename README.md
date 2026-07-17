@@ -47,6 +47,7 @@ project-anda/
         ├── TOOL_SKILLS/
         ├── WORKFLOW_SKILLS/
         ├── SUPERPOWERS/
+        ├── AGENT_SKILLS/
         ├── TASTE_SKILLS/
         ├── ECC_SKILLS/
         └── IMPECCABLE_SKILLS/
@@ -118,6 +119,41 @@ Aturan prosedur standar untuk setup lingkungan kerja, alur development, dan depl
 | Skill | Deskripsi |
 |---|---|
 | `SUPERPOWERS_SKILLS.md` | Koleksi skill modular raksasa untuk berbagai alur kerja — brainstorming, penulisan implementation plan, debugging sistematis, code review, dan banyak lagi. File tunggal dengan ratusan instruksi terstruktur |
+
+---
+
+## 🛠️ AGENT_SKILLS — Engineering Lifecycle
+
+*(Dari repo [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills))*
+
+Kumpulan skill standar industri untuk menjaga kualitas software engineering selama siklus pengembangan oleh AI.
+
+| Skill | Deskripsi |
+|---|---|
+| `api-and-interface-design.md` | Guides stable API and interface design |
+| `browser-testing-with-devtools.md` | Tests in real browsers via Chrome DevTools MCP |
+| `ci-cd-and-automation.md` | Automates CI/CD pipeline setup |
+| `code-review-and-quality.md` | Conducts multi-axis code review |
+| `code-simplification.md` | Simplifies code for clarity |
+| `context-engineering.md` | Optimizes agent context setup |
+| `debugging-and-error-recovery.md` | Guides systematic root-cause debugging |
+| `deprecation-and-migration.md` | Manages deprecation and migration |
+| `documentation-and-adrs.md` | Records decisions and documentation |
+| `doubt-driven-development.md` | Subjects every non-trivial decision to adversarial review |
+| `frontend-ui-engineering.md` | Builds production-quality, accessible, responsive user-facing UIs |
+| `git-workflow-and-versioning.md` | Structures git workflow practices |
+| `idea-refine.md` | Refines raw ideas into sharp, actionable concepts |
+| `incremental-implementation.md` | Delivers changes incrementally |
+| `interview-me.md` | Extracts what the user actually wants via interview |
+| `observability-and-instrumentation.md` | Instruments code so production behavior is visible |
+| `performance-optimization.md` | Optimizes application performance across all layers |
+| `planning-and-task-breakdown.md` | Breaks work into ordered tasks |
+| `security-and-hardening.md` | Hardens code against vulnerabilities |
+| `shipping-and-launch.md` | Prepares production launches |
+| `source-driven-development.md` | Grounds every implementation decision in official documentation |
+| `spec-driven-development.md` | Creates specs before coding |
+| `test-driven-development.md` | Drives development with tests |
+| `using-agent-skills.md` | Discovers and invokes agent skills |
 
 ---
 
