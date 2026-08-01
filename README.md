@@ -98,6 +98,7 @@ Panduan penggunaan tools dan MCP server yang terintegrasi dengan workflow AI.
 | `CONTEXT7.md` | Panduan penggunaan Context7 untuk mengambil dokumentasi resmi teknologi (React, Laravel, Next.js, dll) secara real-time tanpa mengandalkan data training lama |
 | `FIRECRAWL.md` | Panduan web scraping dan pencarian dokumentasi dari sumber luar menggunakan Firecrawl MCP — digunakan ketika Context7 tidak mencukupi |
 | `RTK_SKILL.md` | Panduan inisialisasi Repository Toolkit (RTK) untuk optimasi output terminal dan filtering perintah yang efisien |
+| `BROWSER_USE_SKILL.md` | Panduan lengkap library `browser-use` untuk otomasi browser berbasis AI — form filling, data extraction, QA testing, dan web agent dengan dukungan OpenAI, Anthropic, Gemini, Groq & Ollama |
 
 ---
 

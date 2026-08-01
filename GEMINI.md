@@ -1,2 +1,2 @@
-@AI\_RULES.md
+@AGENTS.md
 

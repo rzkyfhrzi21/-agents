@@ -23,6 +23,7 @@ AI **wajib** membaca semua file skill di folder `@agents/AI-SKILLS/` dan subfold
   - `CONTEXT7.md`: Digunakan untuk mencari dokumentasi resmi teknologi utama proyek.
   - `FIRECRAWL.md`: Digunakan untuk *web scraping* atau mencari dokumentasi dari sumber luar.
   - `RTK_SKILL.md`: Panduan inisialisasi Repository Toolkit (RTK) demi optimasi token terminal.
+  - `BROWSER_USE_SKILL.md`: Panduan penggunaan library `browser-use` untuk otomasi browser berbasis AI — form filling, scraping, QA testing, dan web agent dengan berbagai LLM provider.
 
 - **📁 WORKFLOW_SKILLS**: Aturan standar operasional, alur kerja, dan lingkungan kerja AI.
   - `AGENTS-GENERAL.md` / `WORKFLOW_MODE.md` / `AI_SETUP_MACHINE.md`: Aturan terkait alur kerja AI, penyiapan lingkungan (*environment*), dan persona.
@@ -98,4 +99,8 @@ Jika AI mendeteksi bahwa ini adalah proyek atau *workspace* baru, AI **wajib** s
 - Aturan penulisan kode **hanya berlaku** untuk kode baru yang sedang ditulis atau fitur baru yang sedang ditambahkan.
 - Pengecualian: AI hanya diizinkan melakukan refactor pada kode lama **JIKA DAN HANYA JIKA** pengguna secara eksplisit menginstruksikan atau meminta refactor tersebut.
 
+**Peringatan (setelah baca standar ini):**
+- Standar di atas **bukan** undangan untuk rename/refactor file yang sudah ada.
+- Kalau file lama belum ikut standar (nama beda, logic di page, modal legacy, dll.) — **biarkan**. Hanya file/fitur **baru** yang wajib ikut.
+- Jangan sentuh kode existing kecuali user **minta eksplisit**.
 ---
